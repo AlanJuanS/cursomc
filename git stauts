@@ -1,0 +1,23 @@
+[33mcommit 0ff89917da4b355ae3e6ab3824b8b5ef199b3f4a[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: alanjuan2302@gmail.com <ajuans@minsait.com>
+Date:   Fri Sep 23 02:01:12 2022 -0300
+
+    Banco de dados h2 e criacao automatica da base de dados
+
+[33mcommit 38b6fb3a30d24642d51c5eabd3d34545e65ce225[m
+Author: alanjuan2302@gmail.com <ajuans@minsait.com>
+Date:   Fri Sep 23 01:31:53 2022 -0300
+
+    Testa a primeira classe de domain
+
+[33mcommit 4fb09c51e28037676a699137ef7fdad5edfd2451[m
+Author: alanjuan2302@gmail.com <ajuans@minsait.com>
+Date:   Fri Sep 23 01:10:06 2022 -0300
+
+    Testando o Rest
+
+[33mcommit 615ed0867e273c898047cf11c91eba5d24bf8390[m
+Author: alanjuan2302@gmail.com <ajuans@minsait.com>
+Date:   Fri Sep 23 00:52:02 2022 -0300
+
+    Projeto Criado
