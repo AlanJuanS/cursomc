@@ -17,8 +17,8 @@ public class CategoriaService {
 	
 	public Categoria buscar(Integer id) {
 		Optional<Categoria> obj = repo.findById(id);
-		 return obj.orElseThrow(() -> new ObjectNotFoundException(
-				 "Objeto não encontrado! Id: " + id + ", Tipo: " + Categoria.class.getName(), null));
+		 return obj.orElseThrow(() -> new com.alanjuan.cursomc.services.exceptions.ObjectNotFoundException(
+				 "Objeto não encontrado! id: " + id + ", Tipo: " + Categoria.class.getName(), null));
 	
 	}
 			
